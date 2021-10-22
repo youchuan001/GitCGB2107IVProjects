@@ -1,0 +1,3 @@
+# Project exclude paths
+/01-sca/sca-common/target/
+/01-sca/sca-provider/target/
